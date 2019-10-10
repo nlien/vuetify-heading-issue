@@ -1,0 +1,3 @@
+$font-size-root: 18px;
+// Example of nested object updates
+$headings: map-deep-set($headings, 'h1' 'size', 32px);
